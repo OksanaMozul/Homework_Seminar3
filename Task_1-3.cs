@@ -3,6 +3,7 @@
 // 14212 -> нет
 // 12821 -> да
 // 23432 -> да
+
 // Console.WriteLine("Введите пятизначное число: ");
 // string number = Console.ReadLine();
 // int len = number.Length;
@@ -43,7 +44,7 @@
 // Console.WriteLine($"Длинна отрезка {length}");
 
 
-// // Функция ввода сообщения
+// // // Функция ввода сообщения
 // int ReadInt(string message)
 // {
 //     Console.Write(message);
